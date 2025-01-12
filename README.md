@@ -5,6 +5,7 @@
 This repository contains a project named "Instagram Phishing." The goal of this project is to simulate an Instagram phishing page for educational and awareness purposes. It demonstrates skills in HTML, CSS, and web design while addressing the importance of cybersecurity and the risks associated with phishing attacks.
 
 > **Disclaimer:** This resource is intended for educational purposes only. The author is not responsible for any misuse.
+
 > **Note:** I am not the original creator of this code, and I do not remember where I obtained it from. It was simply on my computer.
 ---
 

